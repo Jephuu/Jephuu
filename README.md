@@ -131,6 +131,4 @@ Author
 Developed by Jephy. 😊
 
 
-Save this as `README.md` in your project folder, and it will display nicely on GitHub! Let me know if you need any further adjustments. 😊
-
 
